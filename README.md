@@ -1,16 +1,19 @@
-### Hi there 👋
+## Victor de Andrade :wave:
 
-<!--
-**VictorAndrade11/VictorAndrade11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18yo and enthusiast of the best web development technologies.<br>
+Currently interested in Javascript Stack and always trying to improve my knowledgement.<br>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:zap: My skills are Javascript, C#, HTML, and CSS/Sass<br>
+
+:books: I'm learning more about Javascript and ReactJS/React Native
+
+:gear: Using tools such as VSCode, Figma, GitHub<br>
+
+:envelope_with_arrow: You can reach me on [LinkedIn](https://www.linkedin.com/in/victordeandrade11/)
+
+<br>
+
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAndrade11&show_icons=true&theme=radical)](https://github.com/VictorAndrade11/github-readme-stats)

@@ -24,8 +24,5 @@
 
 :envelope_with_arrow: You can reach me on [LinkedIn](https://www.linkedin.com/in/victordeandrade11/)
 
-<br>
-
-
 ![Snake animation](https://github.com/VictorAndrade11/VictorAndrade11/blob/output/github-contribution-grid-snake.svg)
 

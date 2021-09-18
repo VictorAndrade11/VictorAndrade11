@@ -1,12 +1,12 @@
 ## Victor de Andrade :wave:
 
-18yo and enthusiast of the best web development technologies.<br>
-Currently interested in Javascript Stack and always trying to improve my knowledgement.<br>
+I'm currently 19 years old, I study everything about front-end and back-end.<br>
+Currently focused on front-end and designer, also studying ReactJS and AngularJS.<br>
 
 <br>
 
 
-:zap: My skills are Javascript, C#, HTML, and CSS/Sass<br>
+:zap: My skills are: Javascript, HTML, HTML5 CSS, CSS3, SASS, Angular, ReactJS, Java, JavaScript, jQuery, C, C++, C#, ASP.NET, PHP, PHP 7, MySQLi, SQL, SQ and Delphi.<br>
 
 :books: I'm learning more about Javascript and ReactJS/React Native
 

@@ -27,4 +27,5 @@
 <br>
 
 
+![Snake animation](https://github.com/victorandrade11/victorandrade11/blob/output/github-contribution-grid-snake.svg)
 

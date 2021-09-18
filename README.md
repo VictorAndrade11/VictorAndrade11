@@ -26,3 +26,5 @@
 
 <br>
 
+![Snake animation](https://github.com/victordeandrade11/victordeandrade11/blob/output/github-contribution-grid-snake.svg)
+

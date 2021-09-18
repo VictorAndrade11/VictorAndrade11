@@ -16,4 +16,13 @@ Currently focused on front-end and designer, also studying ReactJS and AngularJS
 
 <br>
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAndrade11&show_icons=true&theme=dark)](https://github.com/VictorAndrade11/github-readme-stats)
+<div>
+  <a href="https://github.com/victorandrade11/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorandrade11&show_icons=true&theme=dark" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorandrade11&layout=compact&theme=dark" />
+  </a>
+</div>
+

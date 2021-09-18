@@ -25,5 +25,15 @@
 :envelope_with_arrow: You can reach me on [LinkedIn](https://www.linkedin.com/in/victordeandrade11/)
 
 ##
+`💻follow me on social media💻`
+<div> 
+  <a href="https://www.youtube.com/channel/UCW3Qgzl8_29_XiskuBP5ZAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/vitaodyw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/victor_yuri18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victordeandrade11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
 ![Snake animation](https://github.com/VictorAndrade11/VictorAndrade11/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 

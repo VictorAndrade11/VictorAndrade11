@@ -8,9 +8,9 @@ Currently focused on front-end and designer, also studying ReactJS and AngularJS
 
 :zap: My skills are: Javascript, HTML, HTML5 CSS, CSS3, SASS, Angular, ReactJS, Java, JavaScript, jQuery, C, C++, C#, ASP.NET, PHP, PHP 7, MySQLi, SQL, SQ and Delphi.<br>
 
-:books: I'm learning more about Javascript and ReactJS/React Native
+:books: Currently studying more Bootstrap, front-end programming language, javascript and reactJS as well as Java and JavaScript
 
-:gear: Using tools such as VSCode, Figma, GitHub<br>
+:gear: Using tools like VScommunity, VSCode, Adobe Package (PS, AI, XD, PREMIERE, A.EFFECTS), Git, GitHub and some tools as well as online extensions.<br>
 
 :envelope_with_arrow: You can reach me on [LinkedIn](https://www.linkedin.com/in/victordeandrade11/)
 

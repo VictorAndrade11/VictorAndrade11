@@ -16,4 +16,4 @@ Currently focused on front-end and designer, also studying ReactJS and AngularJS
 
 <br>
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAndrade11&show_icons=true&theme=radical)](https://github.com/VictorAndrade11/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAndrade11&show_icons=true&theme=dark)](https://github.com/VictorAndrade11/github-readme-stats)

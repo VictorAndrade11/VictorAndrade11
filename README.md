@@ -35,5 +35,14 @@
   
 ![Snake animation](https://github.com/VictorAndrade11/VictorAndrade11/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center"> 
+
+  ## 
+  <h4 align="center">Total de visitas no perfil :detective: <br> </h4>
+  <p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/victorandrade11/count.svg" />
+  </p>
+</p>
+  
 </div>
 

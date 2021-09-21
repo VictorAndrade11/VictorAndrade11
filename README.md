@@ -42,7 +42,7 @@
   <p align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/victorandrade11/count.svg" />
   </p>
-</p>
+</p> 
   
 </div>
 

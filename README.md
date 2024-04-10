@@ -11,7 +11,7 @@
 
 <br>
 
-👦🏻I'm currently 19 years old, I study everything about front-end and back-end.<br>
+👦🏻I'm currently 22 years old, I study everything about front-end and back-end.<br>
 🎓Currently focused on front-end and designer, also studying ReactJS and AngularJS.<br>
 
 <br>

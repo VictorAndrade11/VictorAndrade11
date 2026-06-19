@@ -119,13 +119,6 @@ const victor = {
 
 </div>
 
-<!-- ====================== SNAKE ANIMATION ====================== -->
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/VictorAndrade11/VictorAndrade11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
 <br/>
 
 <!-- ====================== REDES SOCIAIS ====================== -->
@@ -138,9 +131,6 @@ const victor = {
   </a>
   <a href="https://github.com/VictorAndrade11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/VictorDyW" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCW3Qgzl8_29_XiskuBP5ZAA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />

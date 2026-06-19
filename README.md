@@ -29,7 +29,9 @@
 <!-- ====================== TECNOLOGIAS ====================== -->
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,ts,js,dotnet,cs,java,php,laravel,azure,docker,linux,mysql,postgres,mongodb,figma,git&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,ts,js,dotnet,cs,java,spring,php,laravel,mysql,postgres,mongodb,sqlite,azure,docker,linux,githubactions,git,github,bash,figma,ps,ai,xd,pr,ae,bootstrap,sass,selenium,postman&perline=10" />
+
+`SQL Server` · `Azure DevOps` · `Podman` · `Appium` · `Scrum` · `Kanban` · `ETL & Analytics`
 
 <!-- ====================== STATS ====================== -->
 ### 📊 GitHub Stats

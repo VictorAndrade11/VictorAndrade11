@@ -1,11 +1,11 @@
 <!-- ====================== HEADER / BANNER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1f6feb,100:8957e5&height=220&section=header&text=Victor%20de%20Andrade&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=L%C3%ADder%20T%C3%A9cnico%20S%C3%AAnior%20%2F%20CTO%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1f6feb,100:8957e5&height=220&section=header&text=Victor%20de%20Andrade&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=L%C3%ADder%20T%C3%A9cnico%20%2F%20CTO%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/VictorAndrade11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Victor+de+Andrade!;%F0%9F%9A%80+24+anos+%E2%80%A2+%2B8+anos+em+Tecnologia;%F0%9F%92%BB+L%C3%ADder+T%C3%A9cnico+S%C3%AAnior+%2F+CTO;%E2%9A%A1+Full+Stack+%E2%80%A2+Arquitetura+%E2%80%A2+UX%2FUI+%E2%80%A2+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Victor+de+Andrade!;%F0%9F%9A%80+24+anos+%E2%80%A2+%2B8+anos+em+Tecnologia;%F0%9F%92%BB+L%C3%ADder+T%C3%A9cnico+%2F+CTO;%E2%9A%A1+Full+Stack+%E2%80%A2+Arquitetura+%E2%80%A2+UX%2FUI+%E2%80%A2+Cloud" alt="Typing SVG" />
 </a>
 
 <!-- ====================== DESTAQUE: LINKEDIN + GITHUB ====================== -->
@@ -115,14 +115,14 @@ const victor = {
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=victorandrade11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=victorandrade11&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f6feb&line=8957e5&point=ffffff&area=true" alt="Activity Graph" />
 
 </div>
 
 <!-- ====================== SNAKE ANIMATION ====================== -->
 <div align="center">
 
-  <img src="https://github.com/VictorAndrade11/VictorAndrade11/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/VictorAndrade11/VictorAndrade11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 

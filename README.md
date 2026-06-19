@@ -34,7 +34,7 @@
 const victor = {
   nome: "Victor Yuri de Andrade Farkas",
   idade: 24,
-  profissao: "Líder Técnico Sênior / CTO • Full Stack Developer",
+  profissao: "Líder Técnico / CTO • Full Stack Developer",
   experiencia: "+8 anos em Tecnologia",
   localizacao: "Brasil 🇧🇷",
   atuacao: ["Front-end", "Back-end", "Full Stack", "Arquitetura", "UX/UI", "Dados", "Cloud"],
@@ -53,7 +53,7 @@ const victor = {
 
 | Período | Empresa | Cargo |
 |:---|:---|:---|
-| **Nov/2022 – Atual** | R E R Games & Dinhutech | 🧠 Líder Técnico Sênior / CTO |
+| **Nov/2022 – Atual** | R E R Games & Dinhutech | 🧠 Líder Técnico / CTO |
 | Ago/2023 – Ago/2024 | DDC Company | 💻 Desenvolvedor Full Stack Pleno (PJ) |
 | Set/2022 – Abr/2024 | Arker *(Grupo Neogrid)* | 💻 Desenvolvedor Full Stack |
 | Set/2021 – Ago/2022 | Uppercase Consultoria | 🎨 Desenvolvedor Front-end & UI/UX |
